@@ -25,14 +25,14 @@ Projeto_Integrador/
 - Java 8+
 - JDBC (Java Database Connectivity)
 - MySQL
-- IDE recomendada: IntelliJ IDEA ou Eclipse
+- IDE recomendada: Visual Studio ou IntelliJ IDEA
 
 ## 🖥️ Como Executar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/Projeto_Integrador.git
-   cd Projeto_Integrador
+   git clone https://github.com/SEU_USUARIO/Projeto-Integrador-II-A.git
+   cd Projeto-Integrador-II-A
    ```
 
 2. Crie um banco de dados MySQL:
@@ -68,7 +68,7 @@ Projeto_Integrador/
 
 ## 👥 Autores
 
-- Cristian Ryan – [@seu-github](https://github.com/SEU_USUARIO)
+- Cristian Ryan – [@seu-github](https://github.com/cristianryanti52)
 
 ## 📄 Licença
 
