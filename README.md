@@ -68,7 +68,7 @@ Projeto_Integrador/
 
 ## 👥 Autores
 
-- Cristian Ryan – [@seu-github](https://github.com/cristianryanti52)
+- Cristian Ryan – [@github](https://github.com/cristianryanti52)
 
 ## 📄 Licença
 
